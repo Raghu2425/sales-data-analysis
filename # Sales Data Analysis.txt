@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sales Data Analysis
 
 This project analyzes monthly sales trends using Python.
@@ -13,3 +14,20 @@ This project analyzes monthly sales trends using Python.
 
 ## Dataset
 Simple mock data representing monthly sales.
+=======
+# Sales Data Analysis
+
+This project analyzes monthly sales trends using Python.
+
+## Tools Used
+- Python
+- pandas
+- matplotlib
+
+## How to Run
+1. Clone the repo
+2. Run `sales_analysis.ipynb` in Jupyter or Google Colab
+
+## Dataset
+Simple mock data representing monthly sales.
+>>>>>>> bf5c28063666b6b4587d4176f1e8c99ea944a832
